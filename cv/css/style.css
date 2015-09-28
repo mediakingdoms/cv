@@ -147,11 +147,18 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide2{
-	    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
+	background-color: #ff3;
+	color: #333333;
+	height: 300px;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 200px 0;
+	padding-bottom: 50px;
+    padding-top: 50px;
+    min-width: 100%;
+    position: fixed;
+	top:0;
+	z-index: -100;
 }
 
 #slide2vid {
@@ -164,8 +171,6 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
     min-height: 50%;
     min-width: 50%;
 }
-
-
 
 #slide3{
 	background: url(../img/slide3.jpg) 50% 0 no-repeat fixed;
