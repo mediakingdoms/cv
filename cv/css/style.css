@@ -172,14 +172,15 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
     position: relative;
 	height: 300px;
 	overflow:hidden;
+	top: -200px;
 }
 #wrapper div, #wrapper video {
     position: absolute;
-    top: -100;
+    top: 0;
 }
 
 #blanker{
-	top: -50;
+	top: 0;
 }
 
 
