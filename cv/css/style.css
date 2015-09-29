@@ -166,8 +166,8 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 
 #urapper div, #urapper blanker {
-    position: absolute;
-	height: 1500px;
+    position: relative;
+	height: 900px;
     top: 0;
 }
 
