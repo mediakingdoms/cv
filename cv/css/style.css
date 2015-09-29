@@ -11,11 +11,7 @@ body{
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	
 }
-
-
-
 
 h1 { 
     font-family:"Arvo";
@@ -153,20 +149,17 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 #slide2{
 	background-color: #ff3;
 	color: #333333;
-	height: 700px;
+	height: 300px;
 	margin: 0 auto;
 	overflow: hidden;
-	padding: 20px 0;
+	padding: 200px 0;
 	padding-bottom: 50px;
-    padding-top: 0px;
+    padding-top: 50px;
     min-width: 100%;
     position: fixed;
 	top:0;
 	z-index: -100;
 }
-
-
-
 
 #slide3{
 	background: url(../img/slide3.jpg) 50% 0 no-repeat fixed;
