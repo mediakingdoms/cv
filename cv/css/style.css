@@ -148,12 +148,12 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide2{
-	background-color:#ee0;
 	color: #333333;
 	height: 300px;
 	margin: 0;
 	overflow:hidden;
 	top:0;   
+	padding: 200px 0 260px 0;
 }
 
 
