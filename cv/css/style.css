@@ -174,20 +174,20 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	overflow:hidden;
 	top: -200px;
 	z-index: 1;
-	border-width:thick;
+	border: 3px;
 	border-color:#5ff;
 }
 #wrapper div, #wrapper video {
     position: absolute;
     top: 0;
 	z-index: 9999;
-	border-width:thick;
+	border: 3px;
 	border-color:#2ew;
 }
 
 #blanker{
 	top: 0;
-	border-width:thick;
+	border: 3px;
 	border-color:#0F6;
 }
 
