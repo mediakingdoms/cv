@@ -155,6 +155,15 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	top:30px;
    
 }
+#vidtypecontent{
+	color: #333333;
+	height: 300px;
+	margin: 0;
+	overflow:hidden;
+	z-index: 1;
+	top:30px;
+   
+}
 
 #slide2vid {
     position: absolute;
