@@ -157,7 +157,8 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 #slide2vid {
     position: absolute;
-    bottom: 0;
+    top:-300px;
+	bottom: 0;
     right: 0;
     left: 0;
     margin: auto;
