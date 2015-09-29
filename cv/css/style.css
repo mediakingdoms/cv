@@ -156,66 +156,24 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	top:0;
    
 }
-#vidtypecontent{
-	background-color:#CF0;
-	color: #333333;
-	height: 300px;
-	margin: 0;
-	overflow:hidden;
-	z-index: 1;
-	top:0;
-   
-}
 
 
 #wrapper {
     position: relative;
 	height: 300px;
 	overflow:hidden;
-	top: -200px;
-	z-index: 1;
-	border: 3px;
-	border-color:#5ff;
-	padding: 200px 0 260px 0;
 }
+
 #wrapper div, #wrapper video {
     position: absolute;
     top: 0;
-	z-index: 9999;
-	border: 3px;
-	border-color:#2ew;
-	padding: 200px 0 260px 0;
 }
 
-#blanker{
-	top: 0;
-	border: 3px;
-	border-color:#0F6;
-	padding: 200px 0 260px 0;
-}
-
-
-
-#slide2vid {
-    position: absolute;
-    top:30px;
-	bottom: 0;
-    right: 0;
-    left: 0;
-    margin: auto;
-    min-height: 50%;
-    min-width: 50%;
-	top:0;
-	
-}
 
 video {
   width: 100%    ;
   height: auto   ;
   top:0;
-  border: 3px;
-	border-color:#0F6;
-  z-index: 9999;
 }
 
 #slide3{
