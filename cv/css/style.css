@@ -213,6 +213,9 @@ video {
   width: 100%    ;
   height: auto   ;
   top:0;
+  border: 3px;
+	border-color:#0F6;
+  z-index: 9999;
 }
 
 #slide3{
