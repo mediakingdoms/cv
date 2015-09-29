@@ -150,7 +150,10 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	 width: 200px;
             height: 200px;
             position:relative;
-            overflow:hidden;
+			    width: 200px;
+            overflow: hidden;
+            background-color: #CCCCCC;
+            z-index: 1;
    
 }
 
