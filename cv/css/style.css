@@ -175,9 +175,12 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 #wrapper div, #wrapper video {
     position: absolute;
-    top: 0;
+    top: -100;
 }
 
+#blanker{
+	top: -50;
+}
 
 
 
