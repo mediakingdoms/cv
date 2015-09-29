@@ -154,14 +154,14 @@ position:relative;
 	
 	z-index: -100;
 	   
-    top: -50%;
-    left: -50%;
+    top: 50%;
+    left: 50%;
     width: 200%;
     height: 200%;
 }
 
 #slide2vid {
- position: relative;
+    position: relative;
     top: 0;
     bottom: 0;
     right: 0;
