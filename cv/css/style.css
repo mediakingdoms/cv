@@ -167,6 +167,18 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
    
 }
 
+
+#wrapper {
+    position: relative;
+}
+#wrapper div, #wrapper video {
+    position: absolute;
+    top: 0;
+}
+
+
+
+
 #slide2vid {
     position: absolute;
     top:30px;
