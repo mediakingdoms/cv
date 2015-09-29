@@ -152,12 +152,13 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 	margin: 0;
 	overflow:hidden;
 	z-index: 99999;
+	top:30px;
    
 }
 
 #slide2vid {
     position: absolute;
-    top:-300px;
+    top:30px;
 	bottom: 0;
     right: 0;
     left: 0;
