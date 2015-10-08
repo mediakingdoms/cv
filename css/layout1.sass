@@ -4,23 +4,33 @@ body
   font-family: "Open Sans", sans-serif
 
 h1
-  color: #ccc
+  color: #68696a
   weight: 300
+
 
 figure
   margin: auto
 
 .content
   position: relative
-  background: white
+  background: rgb(154, 219, 250)
   margin-bottom: 400px
   overflow: hidden
 
+
+
   article
-    padding: 100px 0
-    max-width: 640px
+    padding: 50px 0
+    max-width: 1024px
     margin: 0 auto
     text-align: center
+    //background-color: white
+
+    hr
+      height: 2px
+      border: none
+      background-color: #68696a
+      width: 500px
 
 img
   max-width: 100%
@@ -43,7 +53,7 @@ img
 .barshade
   height: 680px
   width: 100%
-  background-color: rgba(0, 0, 0, 0.3)
+  background-color: rgba(0, 0, 0, 0.6)
   position: absolute
   top: -629px
   margin-top: -50px
@@ -59,7 +69,7 @@ img
     repeat: no-repeat
   position: absolute
   top: 50%
-  margin-top: -50px
+  margin-top: -105px
 
 .fore-bird
   width: 100%
@@ -71,7 +81,7 @@ img
   position: absolute
   float: right
   margin-left: 10px
-  top: 100px
+  top: 150px
 
 .back-bird
   width: 1164px
@@ -83,7 +93,7 @@ img
   position: absolute
   left: 50%
   margin-left: -782px
-  top: 200px
+  top: 150px
 
 
 
@@ -93,7 +103,7 @@ img
   margin-bottom: 100px
 
   figure
-    margin-bottom: 20px
+    margin-bottom: 40px
     position: relative
     opacity: 0
     transform: translateX(30px)
@@ -107,7 +117,7 @@ img
 
     img
       display: block
-      transform: scale(1)
+      transform: scale(1.9)
       transition: all 0.3s ease-in-out
 
     &:hover
@@ -115,14 +125,14 @@ img
         left: 0%
 
       img
-        transform: scale(1.1)
+        transform: scale(1)
 
   figcaption
     position: absolute
     bottom: 10px
     left: -100%
-    background: black
-    color: yellow
+    background: rgba(204, 204, 204, 0.6)
+    color: black
     padding: 2px 8px
     font-size: 11px
     transition: all 0.3s ease-in-out
@@ -134,7 +144,7 @@ img
 .large-window
   height: 640px
   background:
-    image: url(../images/model2.jpg)
+    image: url(../images/longshot.jpg)
     position: center 0px
     repeat: repeat-y
     attachment: fixed
