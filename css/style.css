@@ -857,7 +857,8 @@ there.
 /* Larger than desktop */
 /* Larger than Desktop HD */
 body {
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Open Sans", sans-serif;
+  background-color: #9adbfa; }
 
 h1 {
   color: #68696a;
@@ -876,11 +877,15 @@ figure {
     max-width: 1024px;
     margin: 0 auto;
     text-align: center; }
+    .content article p {
+      font-size: 18px; }
+    .content article h1 {
+      font-size: 28px; }
     .content article hr {
       height: 2px;
       border: none;
       background-color: #68696a;
-      width: 500px; }
+      width: 640px; }
 
 img {
   max-width: 100%; }
@@ -935,7 +940,7 @@ img {
   top: 150px; }
 
 .clothes-pics {
-  margin-bottom: 100px; }
+  margin-bottom: 20px; }
   .clothes-pics figure {
     margin-bottom: 40px;
     position: relative;
@@ -957,7 +962,7 @@ img {
       transform: scale(1); }
   .clothes-pics figcaption {
     position: absolute;
-    bottom: 10px;
+    bottom: 0px;
     left: -100%;
     background: rgba(204, 204, 204, 0.6);
     color: black;
@@ -966,7 +971,7 @@ img {
     transition: all 0.3s ease-in-out; }
 
 .large-window {
-  height: 640px;
+  height: 1024px;
   background-image: url(../images/longshot.jpg);
   background-position: center 0px;
   background-repeat: repeat-y;
@@ -1034,7 +1039,7 @@ footer {
   width: 100%;
   z-index: -1; }
   footer .footer-stuff {
-    max-width: 640px;
+    max-width: 1024px;
     margin: 0 auto; }
   footer a {
     color: white; }

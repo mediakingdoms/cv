@@ -42,7 +42,7 @@ $(window).scroll(function(){
   // Promoscope
   if(wScroll > $('.large-window').offset().top - $(window).height()){
     //console.log('yo');
-    $('.large-window').css({'background-position':'center '+ (wScroll - $('.large-window').offset().top) +'px'});
+    $('.large-window').css({'background-position':'center '+ (wScroll - 2000 - $('.large-window').offset().top) * 1 +'px'});
 
     var opacity = (wScroll - $('.large-window').offset().top + 200) / (wScroll / 6);
 
