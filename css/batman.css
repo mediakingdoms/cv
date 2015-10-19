@@ -1,29 +1,18 @@
 body {
 	background: #040404  no-repeat fixed 50% 0;
-	color: #838b94;
-	font-size: 55%;
-	margin: 0;
-	padding: 0;
-	text-align: center
+
 }
 
 #page {
-	color: #9196r4;
-	margin-bottom: 10px;
-	margin-left: auto;
-	margin-right: auto;
-	padding-bottom: 10px;
-	padding-right: 0;
-	padding-top: 0;
-	text-align: left;
-	width: 804px;
+	position: relative;
+	z-index: 9999;
+	width: 100%
 }
 #content {
 	background-color: transparent;
 	background-image: none;
-	font-family: 'Dosis', sans-serif;
-	line-height: 23px
 }
+q
 #parallax {
 	border-top: 1px solid #202328;
 	height: 300px;
