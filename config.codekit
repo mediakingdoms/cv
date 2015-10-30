@@ -319,6 +319,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/back-bird.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182643,
+		"inputAbbreviatedPath": "\/images\/back-bird.jpg",
+		"outputAbbreviatedPath": "\/images\/back-bird.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/back-bird.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -601,6 +612,17 @@
 		"initialSize": 328696,
 		"inputAbbreviatedPath": "\/images\/fore-bird.png",
 		"outputAbbreviatedPath": "\/images\/fore-bird.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/fore-bird_left.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 298084,
+		"inputAbbreviatedPath": "\/images\/fore-bird_left.png",
+		"outputAbbreviatedPath": "\/images\/fore-bird_left.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

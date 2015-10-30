@@ -892,9 +892,9 @@ img {
 
 .bird-boxes {
   position: relative;
-  height: 600px;
+  height: 640px;
   background-image: url(../images/bird-bg.jpg);
-  background-size: auto 600px;
+  background-size: auto 100%;
   background-position: top center;
   background-attachment: fixed;
   overflow: hidden; }
@@ -915,29 +915,40 @@ img {
   background-repeat: no-repeat;
   position: absolute;
   top: 50%;
-  margin-top: -105px; }
+  margin-top: -200px; }
 
 .fore-bird {
   width: 100%;
-  height: 733px;
+  height: 873px;
   background-image: url(../images/fore-bird.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   position: absolute;
   float: right;
-  margin-left: 10px;
-  top: 150px; }
+  margin-left: 0px;
+  top: 100px; }
+
+.fore-bird-lefty {
+  width: 100%;
+  height: 873px;
+  background-image: url(../images/fore-bird_left.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  position: absolute;
+  float: left;
+  margin-left: 0px;
+  top: 0px; }
 
 .back-bird {
-  width: 1164px;
+  width: 1410px;
   height: 600px;
   background-image: url(../images/back-bird.png);
   background-repeat: no-repeat;
   background-position: top left;
   position: absolute;
   left: 50%;
-  margin-left: -782px;
-  top: 150px; }
+  margin-left: -952px;
+  top: 205px; }
 
 .clothes-pics {
   margin-bottom: 20px; }

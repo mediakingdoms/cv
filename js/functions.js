@@ -8,19 +8,23 @@ $(window).scroll(function(){
   if (wScroll <= pContainerHeight) {
 
     $('.logo').css({
-      'transform' : 'translate(0px, '+ wScroll /2 +'%)'
+      'transform' : 'translate(0px, '+ wScroll /1.32 +'%)'
     });
 
     $('.back-bird').css({
-      'transform' : 'translate(0px, '+ wScroll /4 +'%)'
+      'transform' : 'translate(0px, -'+ wScroll /32 +'%)'
     });
 
     $('.fore-bird').css({
-      'transform' : 'translate(0px, -'+ wScroll /13 +'%)'
+      'transform' : 'translate(0px, -'+ wScroll /16 +'%)'
+    });
+
+    $('.fore-bird-lefty').css({
+      'transform' : 'translate(0px, -'+ wScroll /8 +'%)'
     });
 
     $('.barshade').css({
-      'transform' : 'translate(0px, '+ wScroll / 6.1 +'%)'
+      'transform' : 'translate(0px, '+ wScroll / 5.2 +'%)'
     });
 
   }
