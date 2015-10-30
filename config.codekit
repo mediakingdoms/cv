@@ -649,6 +649,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/mephone_05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/mephone_05.png",
+		"outputAbbreviatedPath": "\/images\/mephone_05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/model1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -689,39 +700,6 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/mousepara.png",
 		"outputAbbreviatedPath": "\/images\/mousepara.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/mousepara_01.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 76410,
-		"inputAbbreviatedPath": "\/images\/mousepara_01.png",
-		"outputAbbreviatedPath": "\/images\/mousepara_01.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/mousepara_02.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 154130,
-		"inputAbbreviatedPath": "\/images\/mousepara_02.png",
-		"outputAbbreviatedPath": "\/images\/mousepara_02.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/mousepara_04.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/images\/mousepara_04.png",
-		"outputAbbreviatedPath": "\/images\/mousepara_04.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
